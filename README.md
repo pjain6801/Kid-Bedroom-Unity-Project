@@ -5,3 +5,5 @@ I added furniture to a kids bedroom scene. For example, a bed, sofa, rug, lamp, 
 
 ## Result
 
+https://github.com/user-attachments/assets/a7b71328-16b4-4d4a-8846-df2c94a7e551
+
