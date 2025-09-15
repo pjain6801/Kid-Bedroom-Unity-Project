@@ -4,10 +4,10 @@ This project demonstrates the use of Rigidbody components, colliders, and assets
 
 ## Features 
 **3D Kids Bedroom** 
-Built using free and paid assets from the Unity Asset Store. Includes furniture, toys, and decorative elements.
+- Built using free and paid assets from the Unity Asset Store. Includes furniture, toys, and decorative elements.
 
 **Physics Interactions**
-Objects use Rigidbody and colliders for realistic physics behavior (falling, bouncing, rolling).
+- Objects use Rigidbody and colliders for realistic physics behavior (falling, bouncing, rolling).
 
 ## Result
 
